@@ -2,10 +2,13 @@ package src;
 
 import java.util.Scanner;
 
-public class quadro {
+public class ExQuadro {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
+		//Código para ver área do quadrado.
+		
 		Scanner sc = new Scanner(System.in);
 		
 		double lg_quad, alt_quad, calc3, calc1, calc2;
