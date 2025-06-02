@@ -2,10 +2,13 @@ package src;
 
 import java.util.Scanner;
 
-public class alturamedia {
+public class Alturamedia {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
+		//Código para ver a altura media.
+		
 		Scanner sc = new Scanner(System.in);
 
 		double alt1,alt2, cont, cont1;
