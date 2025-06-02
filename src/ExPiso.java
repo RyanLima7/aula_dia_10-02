@@ -2,10 +2,12 @@ package src;
 
 import java.util.Scanner;
 
-public class piso {
+public class ExPiso {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
+		//Código para ver a área total e o custo total do piso.
 
 		Scanner sc = new Scanner(System.in);
 
